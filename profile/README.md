@@ -2,8 +2,8 @@
 
 **Empowering Privacy, Security, and Untraceability in Digital Currency**
 
-- **Discord:** [discord.gg/JB9CeFW66g](https://discord.gg/JB9CeFW66g)
-- **Telegram:** [t.me/morelonetworkofficial](https://t.me/morelonetworkofficial)
+- **Discord:** [discord.morelonetwork.pl](https://discord.morelonetwork.pl)
+- **Telegram:** [telegram.morelonetwork.pl](https://telegram.morelonetwork.pl)
 - **Mining pools:** [miningpoolstats.stream/morelo](https://miningpoolstats.stream/morelo)
 
 ### Our partners
